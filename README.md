@@ -1,0 +1,2 @@
+# projectpy
+Tea testnet
